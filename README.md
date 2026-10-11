@@ -9,7 +9,7 @@
 ![Solved](https://img.shields.io/badge/Solved-0-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Actively%20Practicing-blue?style=for-the-badge)
 
-[**LeetCode Profile**](https://leetcode.com/YOUR_USERNAME) · [**GitHub Profile**](https://github.com/YOUR_USERNAME)
+[**LeetCode Profile**](https://leetcode.com/u/mellifluentShiv/) · [**GitHub Profile**]([https://github.com/YOUR_USERNAME](https://github.com/shiv0xparanoid))
 
 </div>
 
